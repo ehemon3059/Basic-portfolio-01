@@ -1,3 +1,12 @@
+🔗 Links
+
+Live Demo: https://ehemon3059.github.io/Basic-portfolio-01/
+
+Repository: https://github.com/ehemon3059/Basic-portfolio-01
+
+Issues: https://github.com/ehemon3059/Basic-portfolio-01/issues
+
+
 Design Elements
 
 Modern Glassmorphism UI: Semi-transparent elements with backdrop blur effects
@@ -29,13 +38,7 @@ JavaScript (ES6): Interactive functionality and scroll effects
 Unsplash API: High-quality placeholder images
 
 
-📝 License
-This project is open source and available under the MIT License.
-🔗 Links
 
-Live Demo: https://ehemon3059.github.io/Basic-portfolio-01/
-Repository: https://github.com/ehemon3059/Basic-portfolio-01
-Issues: https://github.com/ehemon3059/Basic-portfolio-01/issues
 
 📧 Contact
 If you have any questions or suggestions, feel free to reach out!
